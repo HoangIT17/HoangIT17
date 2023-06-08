@@ -30,7 +30,9 @@
 
 ##### 😂Profile Views
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=HoangIT17&label=Profile%20Views&color=6&icon=6&pretty=false" />
+</a>
 
 ---
 
